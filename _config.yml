@@ -2,7 +2,7 @@ title: Arpon Sarker
 logo: assets/img/old_punpun.jpg
 show_downloads: false
 remote_theme: pages-themes/hacker@v0.2.0
-# baseurl: /Izen78.github.io
+baseurl: /Izen78.github.io
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 header:

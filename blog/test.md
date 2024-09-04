@@ -6,5 +6,4 @@ title: "Test Blog Page"
 
 ## 2024
 
-[dd/mm/yyyy](compsci/test.md)
 

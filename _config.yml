@@ -1,11 +1,5 @@
-title: Arpon Sarker
-description: Something
-logo: assets/img/old_punpun.jpg
-show_downloads: false
-remote_theme: pages-themes/hacker@v0.2.0
-baseurl: /Izen78.github.io
-plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-# header:
-  # - index.md
-  #- projects.md
+title: Hacker theme
+description: Hacker is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-hacker

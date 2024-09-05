@@ -6,5 +6,5 @@ title: "Test Blog Page"
 
 ## 2024
 
-[05/09/2024]({{ site.baseurl }}/blog/compsci/test)
+[05/09/2024]({{ site.baseurl }}/blog/compsci/test.html)
 

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Chapter 1
+author: Arpon Sarker
 date: 2024-09-05 2:13:00
 categories: [technology, coding]
 tags: [compsci, programming, algorithms]

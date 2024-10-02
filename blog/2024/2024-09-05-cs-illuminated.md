@@ -12,5 +12,9 @@ tags: [compsci, programming, algorithms]
 This blog is my first computer science blog and I wanted something with the breadth of the entire field to serve as an introduction.
 
 Before getting into the first chapter, I think it's a good idea to understand the background of the book before actually delving inside the content. The authors of this book are John Lewis (born: 25/08/1963) from Virgina Tech. 
-Example Reference: [@smith2020]
+Funnily from his Wikipedia page [[1]](#1)
 
+
+## References
+<a id="1">[1]</a> 
+[Wikipedia Page](https://en.wikipedia.org/wiki/John_Lewis_(computer_scientist))

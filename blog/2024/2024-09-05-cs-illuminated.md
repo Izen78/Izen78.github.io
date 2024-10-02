@@ -9,11 +9,8 @@ tags: [compsci, programming, algorithms]
 
 # Computer Science Illuminated Chapter 1
 
-Hello World!
-This is inline math: $E = mc^2$.
+This blog is my first computer science blog and I wanted something with the breadth of the entire field to serve as an introduction.
 
-This is block math:
-$$
-\int_0^\infty e^{-x} \, dx = 1
-$$
+Before getting into the first chapter, I think it's a good idea to understand the background of the book before actually delving inside the content. The authors of this book are John Lewis (born: 25/08/1963) from Virgina Tech. 
+Example Reference: [@smith2020]
 

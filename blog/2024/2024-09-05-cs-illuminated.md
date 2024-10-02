@@ -18,7 +18,7 @@ the 3rd edition textbook from my university, it states he is at Villanova Univer
 Both of these authors have written extensively on programming languages for education and Lewis actively participates in the __ACM Special Interest Group on Computer Science Eduction__ (SIGCSE) and Dale got an award from ACM SIGCSE in 1996.
 
 ## The Onion Layers
-[Image](img/2024/cs-illuminated-layers.png)
+![Layers of a Computing System](img/2024/cs-illuminated-layers.png)
 
 Lets delve into the multiple layers
 ## References

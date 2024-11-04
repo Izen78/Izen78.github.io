@@ -81,10 +81,51 @@ The internet descended from *ARPANET* a government-sponsored network started in 
 ### History of Software
 
 **First Generation (1951-1959):**
-The first programs were written using *machine language*.
+The first programs were written using *machine language* - instructions built into the electrical circuitry of the the particular board. This implies that for every computer there is a different version of the machine language. The first artificial programming languages were developed and were *assembly* languages which replaces the bit instructions with mnemonics. Translators called *assemblers* were used to convert the mnemonic instructions into machine language. The programmers who created assembly which is a higher abstraction were the first *systems programmers* ie. making programming easier for others. 
 
-## Computing as a tool and discipline
+**Second Generation (1959-1965):**
+Using assembly languages still meant that the programmer had to think of programming as individual instructions and thus *high-level languages* were developed as a higher abstraction to think in terms of more complex terms. Two of the languages developed in this generation (that are still used today) are Fortran and COBOL. Fortran started as a simple language and developed additional features from there whereas COBOL was designed first then implemented. Another language was LISP - used mainly for AI and research as well as Scheme which is a dialect taught in SICP. A program can be translated and run on any machine when it has a compiler which translates high-level instructions into machine language. The *applications programmers* used these high-level tools whereas the *systems programmers* built the assemblers and compilers. 
+
+**Third Generation (1965-1971):**
+In this era, the humans were slowing the computers down as they were idle waiting for the user to input the next job. The solution to this was to to put the computer in charge of its own resources - an *operating system*. The *systems software* consisted of the *loaders*, *linkers*, the *operating system* and the translators. The loader is responsible for loading the program into memory and prepares them for execution and on Unix machines can do things like validation, memory-mapping to main memory, copying command-line arguments into main memory, initialising registers, and jumping to the program entry points.[[2]](#2) *Time sharing* was also used to better utilise the higher computing power with the slowness of input/output on keyboards and terminals. Lastly, general-purpose application programs were written such as statistical packages. These *applications programmers* were not writing for their fellow programmers but this time for the general public.
+
+**Fourth Generation (1971-1989):**
+This era saw the beginnings of *structured programming*, a disciplined approach to programming which relies on sequence, selection, iteration, subroutines, and blocks.[[3]](#3) From 50 years ago, we are still using this in contemporary applications. In this generation, better *operating systems* were developed such as Unix, MS-DOS, Macintosh, and PC-DOS (IBM). 
+
+**Fifth Generation (1990-Present):**
+Object-oriented design became the go-to for many programmers in large-scale projects. This shifts the focus from instructions or procedures being a hierarchy of tasks to a hierarchy of data objects. In 1990, Tim Berners-Lee created a set of technical rules (HTTP) that would become the *World Wide Web*. He also created HTML and a text-only browser. I'll get back to the difference between the *Internet* and the *World Wide Web*. 
+
+![Layers of Computing Software](img/2024/software_layers.png)
+
+## Computing as a Tool and Discipline
+There are two groups of programmers: the *systems programmers* that makes the tools in making programming easier and the *applications programmers* who used these tools initially but now build domain-specific programs for non-tech-savvy users. A discipine is defined as a field of study which for Computer Science is defined by Peter Denning as "*the body of knowledge of computing is frequently described as teh systematic study of algorithmic processes the describe and transform information: their theory, analysis, design, efficiency, implementation, and application.*" Denning states that each practitioner must be skilled in these four areas:
+- Algorithmic thinking (express problems into procedures)
+- Representation (store data in an efficient manner)
+- Programming (combines algorithmic thinking and representation into software)
+- Design (the software serves a useful purpose)
+
+Computer science is unique in the fact that it is able to be described as a mathematical discipline (from Turing's works on unsolvable problems, boolean algebra and numerical analysis in scientific computing), a scientific discipline (build and test models of natural phenomena) and engineering where larger computing systems requires a structured framework and design. The subareas outlined by the taskforce to create a curriculum include:
+- Algorithms and Data Structures (*systems*)
+- Programming Languages (*systems*)
+- Architecture (*systems*)
+- Numerical and Symbolic Computation (*applications*)
+- Operating Systems (*systems*)
+- Software Methodology and Engineering (*systems*)
+- Databases and Information Retrieval (*applications*)
+- AI and Robotics (*applications*)
+- Human-computer Communication (*systems*)
+- Graphics (*applications*)
+- Organisational Informatics (*applications*)
+- Bioinformatics (*applications*)
+
+As a future data scientist and starting my Masters of Data Science next year, I am more of an applications programmer since I'll be using 'Numerical and Symbolic Computation', 'Databases and Information Retrieval' and 'AI'. However, I am very interested in 'ADT', 'Architecture', 'OS', and 'Graphics'.
 
 ## References
 <a id="1">[1]</a> 
-[Wikipedia Page](https://en.wikipedia.org/wiki/John_Lewis_(computer_scientist))
+[John Lewis](https://en.wikipedia.org/wiki/John_Lewis_(computer_scientist))
+
+<a id="2">[2]</a> 
+[Loader](https://en.wikipedia.org/wiki/Loader_(computing))
+
+<a id="3">[3]</a> 
+[Structured Programming](https://en.wikipedia.org/wiki/Structured_programming)

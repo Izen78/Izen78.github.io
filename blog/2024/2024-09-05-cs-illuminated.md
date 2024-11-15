@@ -95,7 +95,7 @@ This era saw the beginnings of *structured programming*, a disciplined approach 
 **Fifth Generation (1990-Present):**
 Object-oriented design became the go-to for many programmers in large-scale projects. This shifts the focus from instructions or procedures being a hierarchy of tasks to a hierarchy of data objects. In 1990, Tim Berners-Lee created a set of technical rules (HTTP) that would become the *World Wide Web*. He also created HTML and a text-only browser. I'll get back to the difference between the *Internet* and the *World Wide Web*. 
 
-![Layers of Computing Software](img/2024/software_layers.png)
+![Layers of Computing Software](img/2024/software_layer.png)
 
 ## Computing as a Tool and Discipline
 There are two groups of programmers: the *systems programmers* that makes the tools in making programming easier and the *applications programmers* who used these tools initially but now build domain-specific programs for non-tech-savvy users. A discipine is defined as a field of study which for Computer Science is defined by Peter Denning as "*the body of knowledge of computing is frequently described as teh systematic study of algorithmic processes the describe and transform information: their theory, analysis, design, efficiency, implementation, and application.*" Denning states that each practitioner must be skilled in these four areas:

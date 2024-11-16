@@ -8,4 +8,5 @@ title: Blog Archive
 - [first blog post](/2024/2024-09-05-test.md)
 - [Computer Science Illuminated Chapter 1](/2024/2024-09-05-cs-illuminated.md)
 - [Linear Algebra Done Right 3rd ed Chapter 1](/2024/2024-09-09-ladr-chapter-1.md)
-- [Computer Science Illuminated Chapter 2](/2024/2024-10-04-cs-illuminated-2.md)
+- [Computer Science Illuminated Chapter 2](/2024/2024-11-07-cs-illuminated-2.md)
+- [Computer Science Illuminated Chapter 3](/2024/2024-11-15-cs-illuminated-3.md)

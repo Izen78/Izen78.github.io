@@ -7,7 +7,7 @@ categories: [technology, coding]
 tags: [compsci, programming, algorithms]
 ---
 
-# Computer Science Illuminated Chapter 3 - Data Representation
+# Computer Science Illuminated Chapter 4 - Gates and Circuits
 
 ## Introduction
 Now that we have our binary system and its corresponding representations for different types of data to work with, we must be able  to express these ideas through hardware or electronic devices that harness the power of a lightning bolt to do work. 

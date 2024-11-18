@@ -60,6 +60,7 @@ To convert 0.75 to binary:
 $$
 0.75 \cdot 2 = 1.50, \text{take the 1 as the right of the answer .1\_ and use 0.50}
 $$
+test
 
 $$
 0.50 \cdot 2 = 1.00, \text{take the 1 as the right of the answer .11 and you are done!}

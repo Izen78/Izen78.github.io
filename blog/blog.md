@@ -18,3 +18,4 @@ title: Blog Archive
 - [Computer Science Illuminated Chapter 9](/2024/2024-11-19-cs-illuminated-9.md)
 - [Computer Science Illuminated Chapter 10](/2024/2024-11-20-cs-illuminated-10.md)
 - [Computer Science Illuminated Chapter 11](/2024/2024-11-20-cs-illuminated-11.md)
+- [Computer Science Illuminated Chapter 12](/2024/2024-11-20-cs-illuminated-12.md)

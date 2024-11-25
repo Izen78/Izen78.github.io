@@ -24,3 +24,4 @@ title: Blog Archive
 - [Computer Science Illuminated Chapter 15](/2024/2024-11-21-cs-illuminated-15.md)
 - [Computer Science Illuminated Chapter 16](/2024/2024-11-21-cs-illuminated-16.md)
 - [Computer Science Illuminated Chapter 17](/2024/2024-11-21-cs-illuminated-17.md)
+- [The Elements of Computing Systems Chapter 1](/2024/2024-11-23-tecs-1.md)

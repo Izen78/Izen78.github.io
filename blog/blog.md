@@ -35,3 +35,4 @@ title: Blog Archive
 - [The Elements of Computing Systems Chapter 9](/2024/2024-12-17-tecs-9.md)
 - [The Elements of Computing Systems Chapter 10](/2024/2024-12-17-tecs-10.md)
 - [The Elements of Computing Systems Chapter 11](/2024/2024-12-25-tecs-11.md)
+- [The Elements of Computing Systems Chapter 12](/2024/2024-12-26-tecs-12.md)

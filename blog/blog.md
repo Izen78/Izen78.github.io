@@ -36,3 +36,5 @@ title: Blog Archive
 - [The Elements of Computing Systems Chapter 10](/2024/2024-12-17-tecs-10.md)
 - [The Elements of Computing Systems Chapter 11](/2024/2024-12-25-tecs-11.md)
 - [The Elements of Computing Systems Chapter 12](/2024/2024-12-26-tecs-12.md)
+- [Applied Multivariate Statistical Analysis Chapter 1](/2024/2024-12-29-amsa-1.md)
+- [Applied Multivariate Statistical Analysis Chapter 2](/2025/2025-01-02-amsa-2.md)

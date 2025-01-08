@@ -41,3 +41,4 @@ title: Blog Archive
 ## 2025
 - [Applied Multivariate Statistical Analysis Chapter 2](/2025/2025-01-02-amsa-2.md)
 - [Applied Multivariate Statistical Analysis Chapter 3](/2025/2025-01-03-amsa-3.md)
+- [Applied Multivariate Statistical Analysis Chapter 4](/2025/2025-01-08-amsa-4.md)

@@ -51,3 +51,5 @@ title: Blog Archive
 - [Applied Multivariate Statistical Analysis Chapter 11](/2025/2025-01-14-amsa-11.md)
 - [Applied Multivariate Statistical Analysis Chapter 12](/2025/2025-01-15-amsa-12.md)
 - [Linear Algebra and Its Applications Chapter 1](/2025/2025-02-01-laaia-1.md)
+- [Algoritms in C](/2025/2025-06-01-calg-1.md)
+- [CLRS Chapter 1](/2025/2025-05-05-clrs-1.md)

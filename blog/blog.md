@@ -53,3 +53,4 @@ title: Blog Archive
 - [Linear Algebra and Its Applications Chapter 1](/2025/2025-02-01-laaia-1.md)
 - [Algoritms in C](/2025/2025-06-01-calg-1.md)
 - [CLRS Chapter 1](/2025/2025-05-05-clrs-1.md)
+- [I want to Concentrate](/2025/2025-07-22-iwtc.md)

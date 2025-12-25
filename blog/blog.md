@@ -69,3 +69,4 @@ title: Blog Archive
 - [Mind on Statistics Chapter 17](/2025/2025-08-08-mos-17.md)
 - [Code (Charles Petzold)](/2025/2025-11-23-code.md)
 - [The Will to Change: Men, Masculinity, and Love](/2025/2025-12-02-will.md)
+- [Rethinking Masculinity: Philosophical Explorations in Light of Feminism](/2025/2025-12-23-rethink.md)

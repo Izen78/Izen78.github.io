@@ -70,3 +70,6 @@ title: Blog Archive
 - [Code (Charles Petzold)](/2025/2025-11-23-code.md)
 - [The Will to Change: Men, Masculinity, and Love](/2025/2025-12-02-will.md)
 - [Rethinking Masculinity: Philosophical Explorations in Light of Feminism](/2025/2025-12-23-rethink.md)
+
+## 2026
+- [Build a Career in Data Science](/2026/2026-01-20-ds-career.md)

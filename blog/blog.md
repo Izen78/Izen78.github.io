@@ -73,3 +73,4 @@ title: Blog Archive
 
 ## 2026
 - [Build a Career in Data Science](/2026/2026-01-20-ds-career.md)
+- [How to Prove It](/2026/2026-01-21-htpi.md)
